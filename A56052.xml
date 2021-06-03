@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposition for advancement of moralitie, by a new way of entertainment of the people</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56052</idno><idno type="EEBO-CITATION">99833867</idno>
+  <idno type="VID">38345</idno>
+  <idno type="EEBO-PROQUEST">2240944409</idno>
+  
+            <idno type="STC">Wing P3774</idno>
+            <idno type="STC">ESTC R222725</idno>
+            <idno type="PROQUEST">99833867</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833867e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56052)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38345)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2214:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposition for advancement of moralitie, by a new way of entertainment of the people</title>
+               </titleStmt>
+               <extent>[2], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the yeer 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Moral education --  Early works to 1800.</term>
+               <term type="topical_term">Moralities --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38345:1"/>
+            <p>A PROPOSITION FOR ADVANCEMENT OF MORALITIE, <hi>By a new way of En<g ref="char:EOLhyphen"/>tertainment of the</hi> PEOPLE.</p>
+            <p>LONDON: Printed in the Yeer 1654.</p>
+            <pb facs="tcp:38345:2"/>
+            <pb facs="tcp:38345:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:38345:3"/>
+            <pb n="1" facs="tcp:38345:3"/>
+            <head>A Proposition for advancement of Mo<g ref="char:EOLhyphen"/>rality, by a new way of Entertain<g ref="char:EOLhyphen"/>ment of the People.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S 'tis the princi<g ref="char:EOLhyphen"/>pal Art of Mi<g ref="char:EOLhyphen"/>litary Chiefs to make their Ar<g ref="char:EOLhyphen"/>mies civil, so is it of States<g ref="char:EOLhyphen"/>men to civilize the people; by which Governours procure much ease to themselves, and be<g ref="char:EOLhyphen"/>nefit to those that are govern'd:
+<pb n="2" facs="tcp:38345:4"/>For the civilizing of a Nation makes them not effeminate, or too soft for such discipline of war as enables them to affront their Enemies, but takes off that rudeness by which they grow injurious to one another, and impudent towards Authority. And subjects should receive good education from the State, as from vertuous Philosophers, who did anciently with excel<g ref="char:EOLhyphen"/>lent success correct the peoples manners, not by penall Statutes and Prisons, but by Morall Schooles and Heroick Represen<g ref="char:EOLhyphen"/>tations at the publick charge; obliging them thus to the Su<g ref="char:EOLhyphen"/>pream Power for their mutual
+<pb n="3" facs="tcp:38345:4"/>quiet, without which Life is not a benefit, but punish<g ref="char:EOLhyphen"/>ment from God.</p>
+            <p>All Nations are sway'd by the Powers that rule in <hi>Religion, Armes</hi> and <hi>Laws;</hi> but 'tis not amiss to observe how ill the generality of men digest these Three in<g ref="char:EOLhyphen"/>gredients of Government, by the operations of which the publick health is con<g ref="char:EOLhyphen"/>serv'd.</p>
+            <p>
+               <hi>Religion</hi> hath long had diversity of Rulers, and though they have beene anciently dignifyed by States, and heard as their Tutors, yet 'tis so far from
+<pb n="4" facs="tcp:38345:5"/>begetting our continu'd quietnesse, that it can hardly establish its own peace; which is wholly to be ex<g ref="char:EOLhyphen"/>cus'd, because the nature of divine doctrine brings in things not easily digested by humane capacity; or per<g ref="char:EOLhyphen"/>haps, the menaces of everlast<g ref="char:EOLhyphen"/>ing torments imprint a stron<g ref="char:EOLhyphen"/>ger sense of fear (the pro<g ref="char:EOLhyphen"/>per disease of weak minds) then of love, and thereby beget aversion. And though with some tempers it finde a quick and implicit obe<g ref="char:EOLhyphen"/>dience, yet it prevailes slow<g ref="char:EOLhyphen"/>ly upon the wicked and faithless, because it promi<g ref="char:EOLhyphen"/>seth
+<pb n="5" facs="tcp:38345:5"/>no earthly recompence, which obedience doth rea<g ref="char:EOLhyphen"/>sonably expect in this world.</p>
+            <p>
+               <hi>Armies,</hi> whose Leaders are the Guardians of Em<g ref="char:EOLhyphen"/>pire (for Empire should be still in Nonage, and ever growing) are improper to command belief and con<g ref="char:EOLhyphen"/>formity, because they do it by compulsion; for the minde (being of too subtil a nature to be toucht with humane force) should be govern'd by the insinuati<g ref="char:EOLhyphen"/>ons of perswasion; and we may say, though <hi>Armies</hi> are obey'd, they are not reve<g ref="char:EOLhyphen"/>renc'd,
+<pb n="6" facs="tcp:38345:6"/>and they rather en<g ref="char:EOLhyphen"/>force then command, since no command can be per<g ref="char:EOLhyphen"/>fectly and prosperously o<g ref="char:EOLhyphen"/>bey'd, without willingness and veneration.</p>
+            <p>
+               <hi>Laws</hi> (whose <hi>Enactors</hi> and <hi>Judges</hi> are the peoples ci<g ref="char:EOLhyphen"/>vil Guards, defending them from the mischiefs of one another) have not had much success; since old Lawes, like the letters they were writ in, becom illegible and out of fashion; and new Laws want not only the reverence which Time uses to confer, but even the interest of their Enactors is suspected.</p>
+            <pb n="7" facs="tcp:38345:6"/>
+            <p> New Laws are malici<g ref="char:EOLhyphen"/>ously call'd the projects of necessitous Power, like new Nets spread to intangle us, the old being account<g ref="char:EOLhyphen"/>ed too many, since most are believ'd to be made for forfeitures; and such let<g ref="char:EOLhyphen"/>ting of blood (though in<g ref="char:EOLhyphen"/>tended by Law - makers for our health) is to the people alwayes out of sea<g ref="char:EOLhyphen"/>son: For those that love life with too much passion (and money is the life blood of the people) ever fear a consumption. But be Law-makers as able as Nature, or Experience
+<pb n="8" facs="tcp:38345:7"/>(which is the best Art) can make them; yet, though I will not yeild the wicked to be wiser then the vertu<g ref="char:EOLhyphen"/>ous, I may say, offences are too hard for the Lawes, as some beasts are too wylie for their Hunters; and that vice overcomes virtue, as much as weeds grow fast<g ref="char:EOLhyphen"/>er then medicinable herbs; or rather that sin, like the fruitfull slime of <hi>Nilus,</hi> doth encrease into so many vari<g ref="char:EOLhyphen"/>ous shapes of Serpents (whose walks and retreats are winding and unknown) that even Justice (the pain<g ref="char:EOLhyphen"/>full pursuer of mischief) is
+<pb n="9" facs="tcp:38345:7"/>become weary and amaz'd.</p>
+            <p>If the principall ayds of Government have been ac<g ref="char:EOLhyphen"/>companied with little suc<g ref="char:EOLhyphen"/>cesse, it follows next we should introduce to streng<g ref="char:EOLhyphen"/>then them (still making the people our direct object) some collateral help; which I presume to consist in the improvement of instructive <hi>Morality;</hi> not <hi>speculative Mo<g ref="char:EOLhyphen"/>ralty,</hi> but that which is a<g ref="char:EOLhyphen"/>ctive and brought home to the senses.</p>
+            <p>And we are to consider, that the generality of man<g ref="char:EOLhyphen"/>kinde are solely instructed by their senses, and by im<g ref="char:EOLhyphen"/>mediate
+<pb n="10" facs="tcp:38345:8"/>impressions of par<g ref="char:EOLhyphen"/>ticular objects, never vex<g ref="char:EOLhyphen"/>ing their heads with re<g ref="char:EOLhyphen"/>views and subtle examina<g ref="char:EOLhyphen"/>tions; and are so much the sooner gain'd, by how much the first representations are either more illustrious or more charming; whether this be by the Eye or Eare, wants not its severall ef<g ref="char:EOLhyphen"/>fects; it being in the most refin'd and Aethereal Spi<g ref="char:EOLhyphen"/>rits a curiosity and desire of knowledge; in common soules, an abject admirati<g ref="char:EOLhyphen"/>on: For as great <hi>Buildings,</hi> fair <hi>Pictures, Statues,</hi> and <hi>Me<g ref="char:EOLhyphen"/>dals,</hi> intice the <hi>Virtuosi,</hi> so
+<pb n="11" facs="tcp:38345:8"/>
+               <hi>Triumphs, Pageants, Caualca<g ref="char:EOLhyphen"/>des,</hi> or any thing new, brings the common peo<g ref="char:EOLhyphen"/>ple about them.</p>
+            <p>What is hitherto said, in<g ref="char:EOLhyphen"/>fers, that since there hath not been found a perfect meanes to retaine the peo<g ref="char:EOLhyphen"/>ple in quiet (they being na<g ref="char:EOLhyphen"/>turally passionate and tur<g ref="char:EOLhyphen"/>bulent, and yet reducible) and that Perswasion must be joyn'd to Force, it can be compass'd no other way then by surprisall of their Eyes and Ears.</p>
+            <p>The people will ever be unquiet whilst they are ig<g ref="char:EOLhyphen"/>norant of themselves, and
+<pb n="12" facs="tcp:38345:9"/>unacquainted with those Engins that scrue them up, which are their passions, in true characters of the beauties and deformities of vertue and vice. For com<g ref="char:EOLhyphen"/>monly <hi>Divinity</hi> speaks in abstractions and high The<g ref="char:EOLhyphen"/>ories above their under<g ref="char:EOLhyphen"/>standing, and seldome de<g ref="char:EOLhyphen"/>scends to those usefull parts which are necessary to be learnt; Supposing perhaps that our first Tutors (which are Parents and Gramma<g ref="char:EOLhyphen"/>rians) have prevented the Pulpit in documents of this plaine and easie Na<g ref="char:EOLhyphen"/>ture; but <hi>Morality</hi> (espe<g ref="char:EOLhyphen"/>cially
+<pb n="13" facs="tcp:38345:9"/>that which is need<g ref="char:EOLhyphen"/>full to direct our behavi<g ref="char:EOLhyphen"/>our in publick) can hard<g ref="char:EOLhyphen"/>ly be taught by unpractis'd persons, as being onely to be learn'd from such singu<g ref="char:EOLhyphen"/>lar understandings as have been experienc'd in variety of men and affairs.</p>
+            <p>By these omissions the clouds of common mindes continue undisperst, and breed dispair of knowledg, which begets aversion, and aversion begets open defe<g ref="char:EOLhyphen"/>ction; but if the peoples senses were charm'd and entertain'd with things fa<g ref="char:EOLhyphen"/>miliar to them, they would
+<pb n="14" facs="tcp:38345:10"/>easily follow the voices of their shepherds; especially if there were set up some En<g ref="char:EOLhyphen"/>tertainment, where their Eyes might be subdu'd with <hi>Heroicall Pictures</hi> and change of <hi>Scenes,</hi> their Eares civiliz'd with Musick and wholsome discourses, by some <hi>Academie</hi> where may be presented in a Theater severall ingenious <hi>Mecha<g ref="char:EOLhyphen"/>nicks,</hi> as <hi>Motion</hi> and <hi>Transposi<g ref="char:EOLhyphen"/>tion of Lights,</hi> to make a more naturall resemblance of the great and vertuous Acti<g ref="char:EOLhyphen"/>ons of such as are eminent in Story; without any scan<g ref="char:EOLhyphen"/>dalous disguising of men in
+<pb n="15" facs="tcp:38345:10"/>womens habits, as have bin us'd in Playes; the former would not onely divert the people from disorder, but by degrees enamour them with consideration of the conveniencies and protecti<g ref="char:EOLhyphen"/>ons of Government. This the wise <hi>Athenians</hi> knew; who dividing into three parts the Publick Revenew, expend<g ref="char:EOLhyphen"/>ed one in Shows to divert the people from meeting to consult of their Rulers me<g ref="char:EOLhyphen"/>rit and the defects of Go<g ref="char:EOLhyphen"/>vernment; and the <hi>Romans</hi> had not long continu'd their Empire, but for the same diversion at a vaster charge.</p>
+            <pb n="16" facs="tcp:38345:11"/>
+            <p>
+               <hi>Musick</hi> hath so strong Sympathy with good mindes, that (as <hi>Plato</hi> saies) he cannot be vertuous that loves it not. The won<g ref="char:EOLhyphen"/>ders it can produce may be imagined by the two Ficti<g ref="char:EOLhyphen"/>ons of <hi>Orpheus</hi> and <hi>Amphi<g ref="char:EOLhyphen"/>on;</hi> the one by his musick civilizing a rude people; the other by the sound of his Harp making pleasant their toyles who built up the walls of <hi>Thebes.</hi> But why should we descend to instance Fictions when we may take notice of the great effects that <hi>David's</hi> Harp wrought upon <hi>Saul?</hi>
+            </p>
+            <pb n="17" facs="tcp:38345:11"/>
+            <p>
+               <hi>Discourses</hi> are of excellent advantage to those that want experience; we mean not intellectuall School dis<g ref="char:EOLhyphen"/>quisitions, but smart refle<g ref="char:EOLhyphen"/>ctions upon manners, which make reason fami<g ref="char:EOLhyphen"/>liar with Sense, and inforce the gravest and most consi<g ref="char:EOLhyphen"/>derable Truths from the smallest and most dome<g ref="char:EOLhyphen"/>stique hints; which is not meere Poetry, but a plea<g ref="char:EOLhyphen"/>sant mixture of it with ver<g ref="char:EOLhyphen"/>ball painting; and was the way our Saviour took to convey his Doctrine into the mindes of his Auditors; for, <hi>Without a Parable spake
+<pb n="18" facs="tcp:38345:12"/>he not them;</hi> In this way did <hi>Solomon</hi> declare the mysti<g ref="char:EOLhyphen"/>call love of <hi>Christ</hi> to his Church, and (if it be lawfull to joyne any Eth<g ref="char:EOLhyphen"/>nick Record to sacred Sto<g ref="char:EOLhyphen"/>ry) we may mention that by this Meanes <hi>Demosthenes</hi> and <hi>Menenius Agrippa</hi> (the one with the tale of Wolves and Sheep, the other with that of the belly and limbs) did pleasantly procure their Countreys safety. But this is Poetry in an home and countrey dresse; she has also her States and magnifi<g ref="char:EOLhyphen"/>cencies, her wraths and fa<g ref="char:EOLhyphen"/>miliarities; and there is no
+<pb n="19" facs="tcp:38345:12"/>degree of life which she cannot teach.</p>
+            <p>To work these to the best advantage, and make their touches strengths and heights, not only for de<g ref="char:EOLhyphen"/>light but instruction, there can be no better way then by bringing all into the channell of <hi>Morality;</hi> for the scandalous and extrava<g ref="char:EOLhyphen"/>gant parts being cut off, there will remaine an en<g ref="char:EOLhyphen"/>tire body, full of grace and proportion, able to allure and overcome the variety of Spectators: This will be the great commander of mindes, and like <hi>Hercules</hi>
+               <pb n="20" facs="tcp:38345:13"/>in the Embleme draw all by the Eares.</p>
+            <p>We may then infer, that no designe can promise it selfe fairer successe upon the people then if an <hi>Aca<g ref="char:EOLhyphen"/>demie</hi> or <hi>Schoole</hi> of <hi>Morality</hi> were set up; where seve<g ref="char:EOLhyphen"/>rall Scenes and Representa<g ref="char:EOLhyphen"/>tions to the Eye, severall speeches and entertain<g ref="char:EOLhyphen"/>ments to the Minde, might court even the coursest of the people into goodnesse; for though vertue must needs be transcendently a<g ref="char:EOLhyphen"/>miable, yet since her beames are too dazeling for the Eyes of the vulgar, her
+<pb n="21" facs="tcp:38345:13"/>meaner approches, through the disguises of morall Po<g ref="char:EOLhyphen"/>ety and other Arts, lessen her into a due proportion to their sight.</p>
+            <p>The chiefest objects re<g ref="char:EOLhyphen"/>presented, should be those famous Battels at Land and Sea by which this Nation is renown'd; pre<g ref="char:EOLhyphen"/>senting the Generals and other meritorious Leaders in their conduct, Dangers, Successes, and Triumphs; and the interlocution, be<g ref="char:EOLhyphen"/>tween the changing of the <hi>Scenes,</hi> should be in praise of Valor, Vigilance, Mi<g ref="char:EOLhyphen"/>litary Painfulnesse, Tem<g ref="char:EOLhyphen"/>perance,
+<pb n="22" facs="tcp:38345:14"/>and Obedience to Authority; which will not, like the softer arguments of Playes, make the peo<g ref="char:EOLhyphen"/>ple effeminate, but warme and incite them to Heroi<g ref="char:EOLhyphen"/>call Attempts, when the State shall command them; and bring into derision the present Vices and Luxury.</p>
+            <p>But perhaps the devoti<g ref="char:EOLhyphen"/>on of some (which with all meeknes and civility should be satisfi'd) may except a<g ref="char:EOLhyphen"/>gainst this way of teaching the people, as if it were new, or that the doctrine of <hi>Mora<g ref="char:EOLhyphen"/>lity</hi> were not needfull where that of <hi>faith</hi> is freely preacht.</p>
+            <pb n="23" facs="tcp:38345:14"/>
+            <p> But this kinde of repre<g ref="char:EOLhyphen"/>sentation (consisting partly in the variety of objects by the change of <hi>Scenes,</hi> like Historicall Painting) is no other then that of <hi>Pa<g ref="char:EOLhyphen"/>rables,</hi> unlesse this be made more lively then if it were deliver'd meerly by dis<g ref="char:EOLhyphen"/>course: and is not new; for by <hi>Parables</hi> in Morall Fictions the Prophets of old did often teach; and likewise by that way our Saviour hath oftnest taught; and <hi>Morality</hi> was not only the onely theame of the Prophets, but was also half that great precept in which
+<pb n="24" facs="tcp:38345:15"/>our Saviour contracted his whole Doctrine; which was divided between our manners or behaviour to<g ref="char:EOLhyphen"/>wards one another (which is <hi>Morality</hi>) and our Piety towards God.</p>
+            <p>Others may object, that recreations though never so innocent, are a losse of time to the people in gi<g ref="char:EOLhyphen"/>ving them too great a diver<g ref="char:EOLhyphen"/>sion of pleasure.</p>
+            <p>To this I reply, that whosoever in Government endeavours to make the peo<g ref="char:EOLhyphen"/>ple serious and grave (which are attributes that may become the peoples
+<pb n="25" facs="tcp:38345:15"/>Representatives, but not the people) doth practice a new way to enlarge the State, by making every Sub<g ref="char:EOLhyphen"/>ject a States-man; and he that meanes to govern so sadly (as it were without any Musick in his Domi<g ref="char:EOLhyphen"/>nion) must lay but light burdens on his Subjects; or else he observes not the ordinary wisdome of those, who to their beasts that are much Laden whistle all day to encourage their tra<g ref="char:EOLhyphen"/>vell. For that Supreame Power which expects a firme obedience in those who are not us'd to rejoy<g ref="char:EOLhyphen"/>cing,
+<pb n="26" facs="tcp:38345:16"/>but live mournfully, as if they were still prepa<g ref="char:EOLhyphen"/>ring for the funerall of peace, hath err'd in con<g ref="char:EOLhyphen"/>triving the lastingnesse of Government, which is the principall work of Art; and lesse hath that Power consider'd Nature; as if such new austerity did seeme to tax even her for want of gravity in bringing in the spring merrily, with a mu<g ref="char:EOLhyphen"/>sicall variety of birds. And tis requisite to observe that battells (the most solemn and serious businesse of Death) are begun with Trumpets and Fifes, and an<g ref="char:EOLhyphen"/>ciently
+<pb n="27" facs="tcp:38345:16"/>were continued with more diversity of Musick; and that the <hi>Grecian</hi> Laws (Lawes being the gravest endeavor of humane coun<g ref="char:EOLhyphen"/>cells for the ease of life) were long before the dayes of <hi>Lycurgus</hi> (to make them more pleasant to memory) publisht in verse.</p>
+            <p>Others may object that these Presentments, by drawing too great a con<g ref="char:EOLhyphen"/>course, might endanger the publick Peace; which is a jealousie that sutes not with the dignity and cou<g ref="char:EOLhyphen"/>rage of a State, and may render its growth and
+<pb n="28" facs="tcp:38345:17"/>strength suspected: But we will answer this objection with a plaine question: How is it possible an As<g ref="char:EOLhyphen"/>sembly that is not more numerous then any one of a hundred (which are in each parish of the City every Sabboth) can in any kinde affront the Military Power?</p>
+            <p>It should not be forgot<g ref="char:EOLhyphen"/>ten, that as the way we have propos'd, is the most pro<g ref="char:EOLhyphen"/>bable of evincing the nece<g ref="char:EOLhyphen"/>ssity of vertue unto vulgar mindes, so is it the most likely to containe them in quiet: severall religions teach contrariety, or con<g ref="char:EOLhyphen"/>tradictions,
+<pb n="29" facs="tcp:38345:17"/>and by pervert<g ref="char:EOLhyphen"/>ed principles often lead the people into cōmotions; but their mindes will be more tractable and sooner instru<g ref="char:EOLhyphen"/>cted, when the wayes to sa<g ref="char:EOLhyphen"/>cred Religion (which are rough and shadie) be made more plaine and passable by the footsteps of her ush<g ref="char:EOLhyphen"/>er, <hi>Morality;</hi> and <hi>Morality,</hi> as it is still the same, so is it faithfull to the same ends, and excludes debates; which too often attend the remote, and undiscernable purenesse of <hi>Divinity;</hi> But this would not onely divert the people from suspicious
+<pb n="30" facs="tcp:38345:18"/>thoughts of their Gover<g ref="char:EOLhyphen"/>nors (which is commonly the first effect of their idle<g ref="char:EOLhyphen"/>nesse) but also ease them in the midst of their burdens, and make them believe they have peace round about them; whereas the sound of Trumpets and clashing of Armes, when no such Entertainments are made for diversion, puts them into jealousies, and makes them apt for commotion; and though it may seeme presumption to note so much, yet wil it not be amiss to say, that even the wisest Governors have held it con<g ref="char:EOLhyphen"/>venient
+<pb n="31" facs="tcp:38345:18"/>thus to divert the people; and that there is not an easier means to bring them to the thought and love of publick Tranquility.</p>
+            <p>It is also propos'd (since it may be conceiv'd such a work will bring some pro<g ref="char:EOLhyphen"/>fit to the undertakers) that out of the product the State would accept of the main<g ref="char:EOLhyphen"/>tenance of Fifty maim'd Soldiers; which is more then at most any Hospitall of this Island does support.</p>
+            <p>These things are spoken to the rationall and ingeni<g ref="char:EOLhyphen"/>ous; therefore we may bold<g ref="char:EOLhyphen"/>ly hope this tender will be
+<pb n="32" facs="tcp:38345:19"/>receiv'd with the same affe<g ref="char:EOLhyphen"/>ction and readinesse, as good Governors use to e<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ertain Propositions for the advan<g ref="char:EOLhyphen"/>tage of the people, and such as in any little kinde im<g ref="char:EOLhyphen"/>prove the publick Reve<g ref="char:EOLhyphen"/>new. And since this comes from sincerity in the under<g ref="char:EOLhyphen"/>takers, and will conduce to the common benefit and quiet, we cannot (in such a concourse of promising cir<g ref="char:EOLhyphen"/>cumstances) doubt of the successe.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:38345:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
